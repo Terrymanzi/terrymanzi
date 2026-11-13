@@ -1,8 +1,8 @@
 # Hi, I'm Manzi Terry  
 
-**Software Engineer | Security & Cloud Engineer**  
-**Co-founder @ L-Guard Ltd AI & IoT for road safety**  
-**Coach at The Gym – Rwanda's most intense software engineering bootcamp**  
+**Software Engineer**  
+**Co-founder @ L-Guard Ltd**  
+**Coach at TheGym Rwanda software engineering trainee program**  
 
 ---
 
@@ -23,9 +23,9 @@
 ---
 
 ## Current Focus  
-- Building **community-driven software solutions**
+- Building **L-Guard a roady safety infrastructure solution for Africa starting from Rwanda**
 - Specializing in Cloud Engineering
-- Diving deeper into **Cybersecurity & Ethical Hacking**  
+- Diving deeper into **Azure and AWS**  
 
 ---
 
