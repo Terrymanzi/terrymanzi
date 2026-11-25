@@ -31,7 +31,7 @@
 
 ## Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manzi-terry/)  
-[![X](https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white)](https://x.com/terrymanzi_)  
+[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/terrymanzi_)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
 
 ---
